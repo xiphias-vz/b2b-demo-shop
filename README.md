@@ -33,7 +33,7 @@ Recommended system requirements for MacOS:
 Run the commands:
 ```bash
 mkdir spryker-b2b && cd spryker-b2b
-git clone https://github.com/spryker-shop/b2b-demo-shop.git ./
+git clone https://github.com/xiphias-vz/b2b-demo-shop.git ./
 git clone git@github.com:spryker/docker-sdk.git docker
 ```
 
